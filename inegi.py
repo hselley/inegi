@@ -2,7 +2,7 @@ import requests
 import json
 
 # Replace with your actual API token and the specific indicator/DENUE endpoint
-api_token = "YOUR_INEGI_API_TOKEN"
+api_token = "acef2b97-cce9-befd-65a0-2dc272afe250"
 indicator_id = "2070001" # Example indicator ID (e.g., INPC)
 state_code = "09" # Example state code (e.g., Mexico City)
 
